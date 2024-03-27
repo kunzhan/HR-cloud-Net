@@ -1,0 +1,3 @@
+dataset: 38_LandSat_8 MAE: 0.0454 maxF: 0.8825 avgF: 0.8781 wfm: 0.8478 Sm: 0.8394 Em: 0.9431
+dataset: CH_LandSat_8 MAE: 0.0636 maxF: 0.8806 avgF: 0.8769 wfm: 0.8501 Sm: 0.8364 Em: 0.9293
+dataset: spars_LandSat_8 MAE: 0.0773 maxF: 0.6754 avgF: 0.6629 wfm: 0.5645 Sm: 0.6538 Em: 0.6640
