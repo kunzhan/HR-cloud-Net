@@ -130,7 +130,7 @@ def main():
             loss_x_sup = ce_sup(pred_w, mask) 
             loss_x_w2s = torch.sum(x_sup(pred_s, mask)*conf_fliter_w)/8/352/352
             
-            loss = 0.75 * loss_x_sup + loss_x_w2s * 0.5
+            loss = 0.1 * loss_x_sup + loss_x_w2s * 0.1
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
