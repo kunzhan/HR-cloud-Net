@@ -12,6 +12,11 @@ bash main_demo.sh 0
 bash LC08_test.sh
 ```
 
+- [CHLandSat8](https://github.com/HaiLei-Fly/CHLandsat8)
+- [38 cloud](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset)
+	- [mask](https://github.com/kunzhan/HR-cloud-Net/blob/main/dataset/38_large_gt.tar.gz)
+- [SPARCS](https://emapr.ceoas.oregonstate.edu/sparcs/)
+
 # Citation
 We appreciate it if you cite the following paper:
 ```
